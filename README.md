@@ -7,7 +7,7 @@
 - SQL
 - Excel
 - Power BI
-- IA: Claude, Gemini e ChatGPT
+- IA: Claude e Gemini 
 
 ## 📊 Projetos
 
